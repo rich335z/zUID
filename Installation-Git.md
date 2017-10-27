@@ -48,7 +48,7 @@ _These instructions assume that you have the Git for z/OS client installed and c
 
 1. [Fork the repo](https://help.github.com/articles/fork-a-repo/) to your user account.
 
-1. From z/OS, identify a directory in USS to house the project and navigate into it.
+1. From z/OS, identify a directory in USS to house the project and navigate into it. This should be a generic directory where projects can be stored. The following step will create a specific directory for the product itself.
 
 1. Clone the project from your forked repo:
 
